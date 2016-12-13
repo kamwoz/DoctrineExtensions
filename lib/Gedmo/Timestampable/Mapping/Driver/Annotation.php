@@ -35,6 +35,7 @@ class Annotation extends AbstractAnnotationDriver
         'zenddate',
         'vardatetime',
         'integer',
+        'datetime_microtime',
     );
 
     /**

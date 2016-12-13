@@ -31,6 +31,7 @@ class Xml extends BaseXml
         'zenddate',
         'vardatetime',
         'integer',
+        'datetime_microtime',
     );
 
     /**
